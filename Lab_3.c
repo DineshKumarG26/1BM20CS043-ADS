@@ -165,3 +165,18 @@ int main()
     printf("\nThe number of islands are: %d\n",total);
     return 0;
 }   
+
+Output:
+
+Enter the number of rows: 5
+
+Enter the number of columns: 5
+
+Enter the elements of adjacency matrix(0's and 1's):
+1 1 0 0 0
+0 1 0 0 1
+1 0 0 1 1
+0 0 0 0 0
+1 0 1 0 1
+
+The number of islands are: 5
