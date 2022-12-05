@@ -230,4 +230,15 @@ int main()
     return 0;  
 }  
   
-  
+Output:
+Enter the number of nodes in the tree : 
+7
+Enter the nodes: 
+12 8 5 4 11 17 18
+Preorder traversal of the constructed AVL tree is 
+8 5 4 12 11 17 18 
+Enter the element to be deleted
+11
+
+Preorder traversal after deletion  
+8 5 4 17 12 18 
